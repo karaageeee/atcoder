@@ -38,3 +38,7 @@ run
 ```
 oj test -d ${TESTCASE_DIR} -c ${COMMAND}
 ```
+
+# view contest
+
+https://atcoder.jp/contests/${CONTEST_ID}
